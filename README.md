@@ -4,4 +4,4 @@ to run use: npm run dev
 
 Demo: https://ecommerce-sanity-eight.vercel.app/
 
-![Alt text]https://ibb.co/1d3TGnG
+![image](https://i.ibb.co/JyNHjdj/ecommerce.png)
