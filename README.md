@@ -16,6 +16,8 @@ Fully responsive Modern Full Stack Ecommerce application with Payments functiona
 4. Stripe
 5. Babel
 
-Demo: https://ecommerce-sanity-eight.vercel.app/
+## Demo: 
+
+https://ecommerce-sanity-eight.vercel.app/
 
 ![image](https://i.ibb.co/JyNHjdj/ecommerce.png)
