@@ -10,11 +10,11 @@ Fully responsive Modern Full Stack Ecommerce application with Payments functiona
 
 ## Built With :zap:
 
-Next JS
-React
-Sanity
-Stripe
-Babel
+1. Next JS
+2. React
+3. Sanity
+4. Stripe
+5. Babel
 
 Demo: https://ecommerce-sanity-eight.vercel.app/
 
