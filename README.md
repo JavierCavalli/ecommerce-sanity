@@ -1,6 +1,20 @@
+## Next JS Application
+
 Fully responsive Modern Full Stack Ecommerce application with Payments functionality with a modern design, animations, the ability to add and edit products on the go using a CMS(Sanity), all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover real payments.
 
-to run use: npm run dev
+## Common Commands :computer:
+
+1. `dev` Starts local development server at [http://localhost:3000](http://localhost:3000)
+2. `build` Runs build
+3. `start` Runs next js server
+
+## Built With :zap:
+
+Next JS
+React
+Sanity
+Stripe
+Babel
 
 Demo: https://ecommerce-sanity-eight.vercel.app/
 
